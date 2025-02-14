@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "typing",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "89c25667-d69f-4158-99da-7a35499ed205",
+      "database_name": "withered"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
